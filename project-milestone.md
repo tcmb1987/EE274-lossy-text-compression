@@ -1,3 +1,3 @@
-# Lossy Text Compression Using Natural Language Processing -Project Milestone
+# Lossy Text Compression Using Natural Language Processing - Project Milestone
 
 The purpose of this project is to explore methods of lossy text compression using techniques already used in Natural Language Processing. In alignment with nearly all other compression research, the motive for this project is that humans are generating an increasing amount of data that needs to be stored or transmitted. In the context of textual data, the main focus of compression has generally been in lossless compression. Current lossless techniques for compressing textual data are very efficient, and they can achieve compression at or near entropy. Lossy techniques, however, could achieve compression rates far below entropy. The 

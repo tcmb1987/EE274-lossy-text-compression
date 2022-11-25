@@ -37,15 +37,25 @@ Finally, we hope to present and report these findings in an understandable and c
 
 ## References
 Allahyari, M., Pouriyeh, S., Assefi, M., Safaei, S., Trippe, E. D., Gutierrez, J. B., & Kochut, K. (2017, July 28). Text Summarization Techniques: A Brief Survey. https://arxiv.org/abs/1707.02268
+
 Ataee, P. (2022, March 23). sent2vec · PyPI. PyPI. Retrieved November 25, 2022, from https://pypi.org/project/sent2vec/0.3.0/#files
+
 Gagnon, M., & Da Sylva, L. (2006). Text Compression by Syntactic Pruning. Advances in Artificial Intelligence, 4013, 312-323. https://link-springer-com.stanford.idm.oclc.org/chapter/10.1007/11766247_27#citeas
+
 Gaikwad, D. K., & Mahender, C. N. (2016, March). A Review Paper on Text Summarization. International Journal of Advanced Research in Computer and Communication Engineering, 5(3), 154-160. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ijarcce.com/upload/2016/march-16/IJARCCE%2040.pdf
+
 Kaur, J., & Buttar, P. K. (2018). A Systematic Review on Stopword Removal Algorithms. International Journal on Future Revolution in Computer Science & Communication Engineering, 4(4), 207-210. https://www.researchgate.net/profile/Preetpal-Buttar/publication/354950829_A_Systematic_Review_on_Stopword_Removal_Algorithms/links/615598e94d9f0f16175f84f1/A-Systematic-Review-on-Stopword-Removal-Algorithms.pdf
+
 Kovář, V., Horák, A., & Kadlec, V. (2008). New Methods for Pruning and Ordering of Syntax Parsing Trees. Text, Speech and Dialogue - Lecture Notes in Computer Science, 5246. https://link.springer.com/chapter/10.1007/978-3-540-87391-4_18#citeas
+
 Merriam-Webster. (n.d.). Essential vs. Nonessential Clauses: Usage Explained. Merriam-Webster. Retrieved November 4, 2022, from https://www.merriam-webster.com/words-at-play/usage-of-essential-and-nonessential-clauses
+
 Moghadasi, M. N., & Zhuang, Y. (2020). Sent2Vec: A New Sentence Embedding Representation With Sentimental Semantic. 10.1109/BigData50022.2020.9378337
+
 Raghavan, P., Manning, C. D., & Schütze, H. (2008). Introduction to information retrieval (P. Raghavan & H. Schütze, Eds.). Cambridge University Press.
+
 Sarica, S., & Luo, J. (2021, August 5). Stopwords in technical language processing. PLoS One, 16(8), 1-13. https://doi.org/10.1371/journal. pone.0254937
+
 Zhang, W., Li, P., & Zhu, Q. (2010). Sentiment Classification Based on Syntax Tree Pruning and Tree Kernel. 2010 Seventh Web Information Systems and Applications Conference, 101-105. https://ieeexplore.ieee.org/abstract/document/5581390
 
 

@@ -2,7 +2,9 @@
 Stanford EE 274, Fall 2022 final project on lossy text compression by Lara Arikan and Thomas Bourne.
 
 ## stopword_pruner.ipynb
-This was a test script to determine the feasibility of NLP pruning methods and using sent2vec as a sentence embedding technique.
+This was a test script to determine the feasibility of NLP pruning methods and using sent2vec as a sentence embedding technique. The script uses the BERT model detailed in the following link to create sentence vectorizations.
+
+https://pypi.org/project/sent2vec/0.3.0/#files
 
 ## milestone_final.ipynb
 This script was used to test our initial ML model on sent2vec embeddings. First block imports libraries. Second block gets a corpus of text from the URL provided and removes the NLTK stopwords. The third block compresses the pruned text and original text and compares. Blocks 4 and 5 are to embed the sentences from the pruned and original text. The remaining blocks are to train and test a simple ML model. Each step is listed in script comments. 
@@ -14,7 +16,9 @@ This script is to test various texts and a few sentences from them against recon
 This script is almost an exact replica of mech_test.ipynb, but just one section which was used to test text with articles removed only.
 
 ## encoder_decoder_2
-This script was used to test an encoder decoder ML model similarly to milestone_final.ipynb except using a translation seq2seq method of embedding.
+This script was used to test an encoder decoder ML model similarly to milestone_final.ipynb except using a translation seq2seq method of embedding. For details on the use of seq2seq for translation purposes, please follow the link below. We found that this script was not effective for creating semantically similar reconstructed sentences.
+
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
 ## Final Report
 Our final report is located under our main branch, and can be found at this link:

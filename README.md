@@ -1,6 +1,8 @@
 # EE274-lossy-text-compression
 Stanford EE 274, Fall 2022 final project on lossy text compression by Lara Arikan and Thomas Bourne.
 
+The project was accomplished in the following script order, and it is advisable to review in descending order when analyzing or reproducing.
+
 ## stopword_pruner.ipynb
 This was a test script to determine the feasibility of NLP pruning methods and using sent2vec as a sentence embedding technique. The script uses the BERT model detailed in the following link to create sentence vectorizations.
 

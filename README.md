@@ -18,8 +18,10 @@ This script was used to test an encoder decoder ML model similarly to milestone_
 
 ## Final Report
 Our final report is located under our main branch, and can be found at this link:
+
 https://github.com/tcmb1987/EE274-lossy-text-compression/blob/main/EE274_Final_Report.pdf
 
 ## Presentation Slides
 Our slides have also been uploaded to the main branch, and is at this link:
+
 https://github.com/tcmb1987/EE274-lossy-text-compression/blob/main/EE%20274%20Final%20Project_%20%20Lossy%20Text%20Compression.pdf
